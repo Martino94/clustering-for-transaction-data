@@ -1,4 +1,3 @@
 # Clustering for transaction data
 
-Este repositorio contiene tres notebooks en los cuales se fue desarrollando algoritmos de clusterización con los datos de transacciones de un establecimiento. 
-El notebook Clusterin by DBSCAN.ipynb contiene el resultado final de la clusterización.
+This repository contains three notebooks in which clustering algorithms were developed with the transaction data of an establishment. The Clusterin by DBSCAN.ipynb notebook contains the final result of the clustering.
